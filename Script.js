@@ -1,5 +1,3 @@
-# instagram_promoter
-
 time = prompt("Рекомендованый интервал от 32 до 36 сек", "33");
 a = document.getElementsByClassName("_5f5mN");
 b = document.getElementsByClassName("aOOlW");
